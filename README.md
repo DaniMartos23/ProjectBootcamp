@@ -15,7 +15,8 @@
 <p>4. Buscar viajes según origen y destino </p>
 <p> Ordenar default precio</p>
 <p> Comparar ofertas de viajes</p>
-<p> Hacer reservar/compra de viaje</p>
+<p> Añadir ofertas de viajes</p>
+<p> Hacer reservar/compra de viaje (Opcional)</p>
 
 <p>5.</p>
 <p>https://github.com/DaniMartos23/ProjectFront-End</p>
